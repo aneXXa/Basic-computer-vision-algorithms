@@ -23,7 +23,8 @@ Build the project:
    gcc filters.c -shared -fPIC -O2 -o filters.dll
    gcc main.c -o bcva -L. -lfilters -lm
   ```
-or simply use c.bat file to compile
+or simply use c.bat file to compile.
+
 It is nessesary to download `stb_image.h` and `stb_image_write.h` libraries 
 
 ## Structure
@@ -99,6 +100,7 @@ It is nessesary to download `stb_image.h` and `stb_image_write.h` libraries
   - [Комментарий к алгоритму выделения контуров Канни by AndreyIvanoff on habr](https://habr.com/ru/articles/114766/)
   - [Convolution on wikipedia](https://ru.wikipedia.org/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D1%81%D0%B2%D0%B5%D1%80%D1%82%D0%BA%D0%B8)
   - [F#, увеличение контраста изображения путем выравнивания гистограмм by zverjuga on habr](https://habr.com/ru/articles/502986/)
+  - [stb_image and stb_image_write libraries source](https://github.com/nothings/stb)
 
 ## Remark
 
