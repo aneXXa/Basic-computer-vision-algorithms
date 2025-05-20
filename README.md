@@ -104,7 +104,9 @@ It is nessesary to download `stb_image.h` and `stb_image_write.h` libraries
 
 Novosibirsk State University (NSU)
 Bachelor's Program: 15.03.06 - Mechatronics and Robotics (AI Profile)
+
 *Imperative Programming Course - Graduation Project*
+
 *Computer vision algorithms in C*
 
 
